@@ -1,0 +1,1 @@
+console.log('Pago realizado', e)
